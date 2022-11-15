@@ -1,6 +1,6 @@
 import socket
 
-#table consisting the ipa and mac of given any rnadom4
+#table consisting the ip and mac of given any rnadom4
 table={
     '192.35.3.2':'1E.4A.5C.6D',
     '192.35.3.4':'1E.4H.5C.6D',
