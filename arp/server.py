@@ -1,6 +1,5 @@
 import socket
 
-
 #table consisting the ipa and mac of given any rnadom4
 table={
     '192.35.3.2':'1E.4A.5C.6D',
